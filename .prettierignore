@@ -1,0 +1,5 @@
+node_modules/
+dashboard/dist/
+dashboard/.angular/
+dashboard/pnpm-lock.yaml
+pnpm-lock.yaml
