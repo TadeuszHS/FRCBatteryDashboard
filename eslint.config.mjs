@@ -8,7 +8,7 @@ export default [
     files: ['**/*.ts'],
     languageOptions: {
       parserOptions: {
-        project: ['./server/tsconfig.json', './web/tsconfig.app.json'],
+        project: ['./server/tsconfig.json', './dashboard/tsconfig.app.json'],
         tsconfigRootDir: import.meta.dirname,
       },
     },
